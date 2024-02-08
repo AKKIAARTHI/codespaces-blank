@@ -5,5 +5,5 @@ int main(){
     cout<<"Enter your name : ";
     string name;
     cin>>name;
-    cout<<"Hello "<<name;
+    cout<<"Hello "<<name<<"\n";
 }
