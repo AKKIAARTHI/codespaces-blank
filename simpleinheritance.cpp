@@ -10,7 +10,7 @@ public:
 class student : public college
 {
 public:
-    string name = "Ajay";
+    string name = "winni";
     int roll = 123;
 };
 
