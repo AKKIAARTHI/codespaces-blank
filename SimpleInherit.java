@@ -4,7 +4,7 @@ class college {
 }
 
 class student extends college {
-    String name = "Ajay";
+    String name = "Winni";
     int roll = 123;
 }
 
