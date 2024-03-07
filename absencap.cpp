@@ -36,5 +36,5 @@ int main()
     obj.setVar(1,2,3);
     cout << "PriVar : "<< obj.getpriVar() << endl;
     cout << "ProVar : "<< obj.getproVar() << endl;
-    cout << "PubVar :out << "PriVar : "<< obj.getpriVar() << e "<< obj.getpubVar() << endl;
+    cout << "PubVar : "<< obj.getpriVar() << endl;
 }
